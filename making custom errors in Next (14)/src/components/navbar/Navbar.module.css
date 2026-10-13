@@ -1,0 +1,9 @@
+.inner{
+    border-bottom: solid 1px;
+}
+.inner ul li{
+    margin: 10px;
+}
+.inner ul button{
+    margin: 10px;
+}
